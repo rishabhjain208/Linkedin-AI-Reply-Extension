@@ -4,7 +4,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Demo
 
-https://github.com/visalakshi2008/Linkedin-AI-Reply-Chrom-Extension---Visalakshi/assets/58606388/eca40f25-2354-424a-abf5-ba5c103c7fa0
+https://drive.google.com/file/d/1OR3_6GoKQ9IWy4Ilk-hbC03jszDruztA/view?usp=sharing
 
 
 
